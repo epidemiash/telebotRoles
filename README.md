@@ -1,5 +1,5 @@
 # Установите нужные пакеты
-pip install telebot
+<br>pip install telebot
 pip install sqlite3
 
 # В коде
